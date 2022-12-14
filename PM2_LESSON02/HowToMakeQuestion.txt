@@ -1,0 +1,14 @@
+In exam1_2
+Delete CaffeineDrink.java
+Delete Tea.java
+
+In exam3
+Delete CoffeeWithHook.java
+
+In exam4
+Delete CaffeineDrink.java
+Delete CoffeeStrategy.java
+
+In exam5
+Delete CondimentArrayList.java
+
